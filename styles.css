@@ -1,0 +1,22 @@
+body {
+    background-color: #fefefe;
+    color:#333;
+    font-family:'Avenir';
+    margin:auto;
+    padding-bottom:140px;
+    padding-top:140px; 
+    width:700px;
+}
+
+a {
+    font-weight:500;
+    text-decoration:none;
+}
+
+a:hover {
+    opacity: 0.8;
+}
+
+h2 {
+    padding-top:32px;
+}
