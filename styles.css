@@ -1,23 +1,23 @@
 body {
-    background-color: #fefefe;
-    color:#333;
-    font-family:'Avenir';
-    margin:auto;
-    padding-bottom:140px;
-    padding-top:120px; 
-    width:700px;
+  background-color: #fefefe;
+  color: #333;
+  font-family: Avenir, Tahoma, Sans-Serif;
+  margin: auto;
+  padding-bottom: 140px;
+  padding-top: 120px;
+  width: 700px;
 }
 
 a {
-    color: #275DAD;
-    font-weight:500;
-    text-decoration:none;
+  color: #275dad;
+  font-weight: 500;
+  text-decoration: none;
 }
 
 a:hover {
-    opacity: 0.8;
+  opacity: 0.8;
 }
 
 h2 {
-    padding-top:32px;
+  padding-top: 32px;
 }
